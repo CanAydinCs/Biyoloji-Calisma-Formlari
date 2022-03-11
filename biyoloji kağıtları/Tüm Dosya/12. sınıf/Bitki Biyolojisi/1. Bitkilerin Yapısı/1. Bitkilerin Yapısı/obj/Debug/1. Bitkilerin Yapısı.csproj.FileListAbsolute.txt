@@ -1,0 +1,20 @@
+D:\Masaüstü\1. Bitkilerin Yapısı\1. Bitkilerin Yapısı\bin\Debug\_1.Bitkilerin_Yapısı.exe.config
+D:\Masaüstü\1. Bitkilerin Yapısı\1. Bitkilerin Yapısı\bin\Debug\_1.Bitkilerin_Yapısı.exe
+D:\Masaüstü\1. Bitkilerin Yapısı\1. Bitkilerin Yapısı\bin\Debug\_1.Bitkilerin_Yapısı.pdb
+D:\Masaüstü\1. Bitkilerin Yapısı\1. Bitkilerin Yapısı\obj\Debug\1. Bitkilerin Yapısı.csprojAssemblyReference.cache
+D:\Masaüstü\1. Bitkilerin Yapısı\1. Bitkilerin Yapısı\obj\Debug\_1.Bitkilerin_Yapısı.Form1.resources
+D:\Masaüstü\1. Bitkilerin Yapısı\1. Bitkilerin Yapısı\obj\Debug\_1.Bitkilerin_Yapısı.Formlar.A.resources
+D:\Masaüstü\1. Bitkilerin Yapısı\1. Bitkilerin Yapısı\obj\Debug\_1.Bitkilerin_Yapısı.Formlar.Ksyf1.resources
+D:\Masaüstü\1. Bitkilerin Yapısı\1. Bitkilerin Yapısı\obj\Debug\_1.Bitkilerin_Yapısı.Properties.Resources.resources
+D:\Masaüstü\1. Bitkilerin Yapısı\1. Bitkilerin Yapısı\obj\Debug\1. Bitkilerin Yapısı.csproj.GenerateResource.cache
+D:\Masaüstü\1. Bitkilerin Yapısı\1. Bitkilerin Yapısı\obj\Debug\1. Bitkilerin Yapısı.csproj.CoreCompileInputs.cache
+D:\Masaüstü\1. Bitkilerin Yapısı\1. Bitkilerin Yapısı\obj\Debug\_1.Bitkilerin_Yapısı.exe
+D:\Masaüstü\1. Bitkilerin Yapısı\1. Bitkilerin Yapısı\obj\Debug\_1.Bitkilerin_Yapısı.pdb
+D:\Masaüstü\1. Bitkilerin Yapısı\1. Bitkilerin Yapısı\obj\Debug\_1.Bitkilerin_Yapısı.Formlar.Enine.resources
+D:\Masaüstü\1. Bitkilerin Yapısı\1. Bitkilerin Yapısı\obj\Debug\_1.Bitkilerin_Yapısı.Formlar.Kkcesit.resources
+D:\Masaüstü\1. Bitkilerin Yapısı\1. Bitkilerin Yapısı\obj\Debug\_1.Bitkilerin_Yapısı.Formlar.Gvde.resources
+D:\Masaüstü\1. Bitkilerin Yapısı\1. Bitkilerin Yapısı\obj\Debug\_1.Bitkilerin_Yapısı.Formlar.Halka.resources
+D:\Masaüstü\1. Bitkilerin Yapısı\1. Bitkilerin Yapısı\obj\Debug\_1.Bitkilerin_Yapısı.Formlar.Sek.resources
+D:\Masaüstü\1. Bitkilerin Yapısı\1. Bitkilerin Yapısı\obj\Debug\_1.Bitkilerin_Yapısı.Formlar.Yaprak.resources
+D:\Masaüstü\1. Bitkilerin Yapısı\1. Bitkilerin Yapısı\obj\Debug\_1.Bitkilerin_Yapısı.Formlar.YaprakEnine.resources
+D:\Masaüstü\1. Bitkilerin Yapısı\1. Bitkilerin Yapısı\obj\Debug\_1.Bitkilerin_Yapısı.Formlar.Sorular.resources

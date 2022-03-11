@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{33336124-C139-49B2-AE7B-A7819E5769DA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>_1.Bitkilerin_Yapısı</RootNamespace>
+    <AssemblyName>_1.Bitkilerin_Yapısı</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\A.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\A.Designer.cs">
+      <DependentUpon>A.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Enine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Enine.Designer.cs">
+      <DependentUpon>Enine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Gvde.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Gvde.Designer.cs">
+      <DependentUpon>Gvde.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Halka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Halka.Designer.cs">
+      <DependentUpon>Halka.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Kkcesit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Kkcesit.Designer.cs">
+      <DependentUpon>Kkcesit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Ksyf1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Ksyf1.Designer.cs">
+      <DependentUpon>Ksyf1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Sek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Sek.Designer.cs">
+      <DependentUpon>Sek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Sorular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Sorular.Designer.cs">
+      <DependentUpon>Sorular.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Yaprak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Yaprak.Designer.cs">
+      <DependentUpon>Yaprak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\YaprakEnine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\YaprakEnine.Designer.cs">
+      <DependentUpon>YaprakEnine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\A.resx">
+      <DependentUpon>A.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Enine.resx">
+      <DependentUpon>Enine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Gvde.resx">
+      <DependentUpon>Gvde.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Halka.resx">
+      <DependentUpon>Halka.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Kkcesit.resx">
+      <DependentUpon>Kkcesit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Ksyf1.resx">
+      <DependentUpon>Ksyf1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Sek.resx">
+      <DependentUpon>Sek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Sorular.resx">
+      <DependentUpon>Sorular.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Yaprak.resx">
+      <DependentUpon>Yaprak.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\YaprakEnine.resx">
+      <DependentUpon>YaprakEnine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

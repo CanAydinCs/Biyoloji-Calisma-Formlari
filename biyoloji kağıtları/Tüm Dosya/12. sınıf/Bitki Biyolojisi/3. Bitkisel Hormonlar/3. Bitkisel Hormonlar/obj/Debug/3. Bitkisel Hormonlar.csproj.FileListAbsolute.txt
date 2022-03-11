@@ -1,0 +1,16 @@
+D:\Masaüstü\3. Bitkisel Hormonlar\3. Bitkisel Hormonlar\bin\Debug\_3.Bitkisel_Hormonlar.exe.config
+D:\Masaüstü\3. Bitkisel Hormonlar\3. Bitkisel Hormonlar\bin\Debug\_3.Bitkisel_Hormonlar.exe
+D:\Masaüstü\3. Bitkisel Hormonlar\3. Bitkisel Hormonlar\bin\Debug\_3.Bitkisel_Hormonlar.pdb
+D:\Masaüstü\3. Bitkisel Hormonlar\3. Bitkisel Hormonlar\obj\Debug\3. Bitkisel Hormonlar.csprojAssemblyReference.cache
+D:\Masaüstü\3. Bitkisel Hormonlar\3. Bitkisel Hormonlar\obj\Debug\_3.Bitkisel_Hormonlar.Form1.resources
+D:\Masaüstü\3. Bitkisel Hormonlar\3. Bitkisel Hormonlar\obj\Debug\_3.Bitkisel_Hormonlar.Properties.Resources.resources
+D:\Masaüstü\3. Bitkisel Hormonlar\3. Bitkisel Hormonlar\obj\Debug\_3.Bitkisel_Hormonlar.Sayfalar.Etki.resources
+D:\Masaüstü\3. Bitkisel Hormonlar\3. Bitkisel Hormonlar\obj\Debug\_3.Bitkisel_Hormonlar.Sayfalar.Oksin.resources
+D:\Masaüstü\3. Bitkisel Hormonlar\3. Bitkisel Hormonlar\obj\Debug\3. Bitkisel Hormonlar.csproj.GenerateResource.cache
+D:\Masaüstü\3. Bitkisel Hormonlar\3. Bitkisel Hormonlar\obj\Debug\3. Bitkisel Hormonlar.csproj.CoreCompileInputs.cache
+D:\Masaüstü\3. Bitkisel Hormonlar\3. Bitkisel Hormonlar\obj\Debug\_3.Bitkisel_Hormonlar.exe
+D:\Masaüstü\3. Bitkisel Hormonlar\3. Bitkisel Hormonlar\obj\Debug\_3.Bitkisel_Hormonlar.pdb
+D:\Masaüstü\3. Bitkisel Hormonlar\3. Bitkisel Hormonlar\obj\Debug\_3.Bitkisel_Hormonlar.Sayfalar.Sitokinin.resources
+D:\Masaüstü\3. Bitkisel Hormonlar\3. Bitkisel Hormonlar\obj\Debug\_3.Bitkisel_Hormonlar.Sayfalar.Giberellinler.resources
+D:\Masaüstü\3. Bitkisel Hormonlar\3. Bitkisel Hormonlar\obj\Debug\_3.Bitkisel_Hormonlar.Sayfalar.Etilen.resources
+D:\Masaüstü\3. Bitkisel Hormonlar\3. Bitkisel Hormonlar\obj\Debug\_3.Bitkisel_Hormonlar.Sayfalar.Soru.resources

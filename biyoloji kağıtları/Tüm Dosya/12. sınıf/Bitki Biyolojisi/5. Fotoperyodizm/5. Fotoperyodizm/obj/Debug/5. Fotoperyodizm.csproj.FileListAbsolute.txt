@@ -1,0 +1,13 @@
+D:\Masaüstü\5. Fotoperyodizm\5. Fotoperyodizm\bin\Debug\_5.Fotoperyodizm.exe.config
+D:\Masaüstü\5. Fotoperyodizm\5. Fotoperyodizm\bin\Debug\_5.Fotoperyodizm.exe
+D:\Masaüstü\5. Fotoperyodizm\5. Fotoperyodizm\bin\Debug\_5.Fotoperyodizm.pdb
+D:\Masaüstü\5. Fotoperyodizm\5. Fotoperyodizm\obj\Debug\5. Fotoperyodizm.csprojAssemblyReference.cache
+D:\Masaüstü\5. Fotoperyodizm\5. Fotoperyodizm\obj\Debug\_5.Fotoperyodizm.Form1.resources
+D:\Masaüstü\5. Fotoperyodizm\5. Fotoperyodizm\obj\Debug\_5.Fotoperyodizm.Properties.Resources.resources
+D:\Masaüstü\5. Fotoperyodizm\5. Fotoperyodizm\obj\Debug\_5.Fotoperyodizm.Sayfalar.Uzun.resources
+D:\Masaüstü\5. Fotoperyodizm\5. Fotoperyodizm\obj\Debug\5. Fotoperyodizm.csproj.GenerateResource.cache
+D:\Masaüstü\5. Fotoperyodizm\5. Fotoperyodizm\obj\Debug\5. Fotoperyodizm.csproj.CoreCompileInputs.cache
+D:\Masaüstü\5. Fotoperyodizm\5. Fotoperyodizm\obj\Debug\_5.Fotoperyodizm.exe
+D:\Masaüstü\5. Fotoperyodizm\5. Fotoperyodizm\obj\Debug\_5.Fotoperyodizm.pdb
+D:\Masaüstü\5. Fotoperyodizm\5. Fotoperyodizm\obj\Debug\_5.Fotoperyodizm.Sayfalar.Bitki.resources
+D:\Masaüstü\5. Fotoperyodizm\5. Fotoperyodizm\obj\Debug\_5.Fotoperyodizm.Sayfalar.Sorular.resources

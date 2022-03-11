@@ -1,0 +1,17 @@
+D:\Masaüstü\4. Bitki Hareketleri\4. Bitki Hareketleri\bin\Debug\_4.Bitki_Hareketleri.exe.config
+D:\Masaüstü\4. Bitki Hareketleri\4. Bitki Hareketleri\bin\Debug\_4.Bitki_Hareketleri.exe
+D:\Masaüstü\4. Bitki Hareketleri\4. Bitki Hareketleri\bin\Debug\_4.Bitki_Hareketleri.pdb
+D:\Masaüstü\4. Bitki Hareketleri\4. Bitki Hareketleri\obj\Debug\4. Bitki Hareketleri.csprojAssemblyReference.cache
+D:\Masaüstü\4. Bitki Hareketleri\4. Bitki Hareketleri\obj\Debug\_4.Bitki_Hareketleri.Form1.resources
+D:\Masaüstü\4. Bitki Hareketleri\4. Bitki Hareketleri\obj\Debug\_4.Bitki_Hareketleri.Properties.Resources.resources
+D:\Masaüstü\4. Bitki Hareketleri\4. Bitki Hareketleri\obj\Debug\_4.Bitki_Hareketleri.Sayfalar.Tropizma.fototropizma.resources
+D:\Masaüstü\4. Bitki Hareketleri\4. Bitki Hareketleri\obj\Debug\_4.Bitki_Hareketleri.Sayfalar.Tropizma.Temel.resources
+D:\Masaüstü\4. Bitki Hareketleri\4. Bitki Hareketleri\obj\Debug\4. Bitki Hareketleri.csproj.GenerateResource.cache
+D:\Masaüstü\4. Bitki Hareketleri\4. Bitki Hareketleri\obj\Debug\4. Bitki Hareketleri.csproj.CoreCompileInputs.cache
+D:\Masaüstü\4. Bitki Hareketleri\4. Bitki Hareketleri\obj\Debug\_4.Bitki_Hareketleri.exe
+D:\Masaüstü\4. Bitki Hareketleri\4. Bitki Hareketleri\obj\Debug\_4.Bitki_Hareketleri.pdb
+D:\Masaüstü\4. Bitki Hareketleri\4. Bitki Hareketleri\obj\Debug\_4.Bitki_Hareketleri.Sayfalar.Tropizma.Tablo.resources
+D:\Masaüstü\4. Bitki Hareketleri\4. Bitki Hareketleri\obj\Debug\_4.Bitki_Hareketleri.Sayfalar.Geotropizma.Geotropizma.resources
+D:\Masaüstü\4. Bitki Hareketleri\4. Bitki Hareketleri\obj\Debug\_4.Bitki_Hareketleri.Sayfalar.Kemotropizma.resources
+D:\Masaüstü\4. Bitki Hareketleri\4. Bitki Hareketleri\obj\Debug\_4.Bitki_Hareketleri.Sayfalar.Nasti.resources
+D:\Masaüstü\4. Bitki Hareketleri\4. Bitki Hareketleri\obj\Debug\_4.Bitki_Hareketleri.Sayfalar.Sorular.resources

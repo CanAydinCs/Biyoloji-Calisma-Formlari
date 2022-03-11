@@ -1,0 +1,24 @@
+C:\Users\ASUS\Desktop\Mitoz Bölünme\Mitoz Bölünme\bin\Debug\Mitoz Bölünme.exe.config
+C:\Users\ASUS\Desktop\Mitoz Bölünme\Mitoz Bölünme\bin\Debug\Mitoz Bölünme.exe
+C:\Users\ASUS\Desktop\Mitoz Bölünme\Mitoz Bölünme\bin\Debug\Mitoz Bölünme.pdb
+C:\Users\ASUS\Desktop\Mitoz Bölünme\Mitoz Bölünme\obj\Debug\Mitoz Bölünme.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Mitoz Bölünme\Mitoz Bölünme\obj\Debug\Mitoz_Bölünme.Form1.resources
+C:\Users\ASUS\Desktop\Mitoz Bölünme\Mitoz Bölünme\obj\Debug\Mitoz_Bölünme.Interfaz.resources
+C:\Users\ASUS\Desktop\Mitoz Bölünme\Mitoz Bölünme\obj\Debug\Mitoz_Bölünme.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Mitoz Bölünme\Mitoz Bölünme\obj\Debug\Mitoz Bölünme.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Mitoz Bölünme\Mitoz Bölünme\obj\Debug\Mitoz Bölünme.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Mitoz Bölünme\Mitoz Bölünme\obj\Debug\Mitoz Bölünme.exe
+C:\Users\ASUS\Desktop\Mitoz Bölünme\Mitoz Bölünme\obj\Debug\Mitoz Bölünme.pdb
+C:\Users\ASUS\Desktop\Mitoz Bölünme\Mitoz Bölünme\obj\Debug\Mitoz_Bölünme.evre.Hücre.resources
+C:\Users\ASUS\Desktop\Mitoz Bölünme\Mitoz Bölünme\obj\Debug\Mitoz_Bölünme.evre.Dng.resources
+C:\Users\ASUS\Desktop\Mitoz Bölünme\Mitoz Bölünme\obj\Debug\Mitoz_Bölünme.sorular.srkısım1.resources
+C:\Users\ASUS\Desktop\Mitoz Bölünme\Mitoz Bölünme\obj\Debug\Mitoz_Bölünme.evre.Kvrm.resources
+C:\Users\ASUS\Desktop\Mitoz Bölünme\Mitoz Bölünme\obj\Debug\Mitoz_Bölünme.evre.Profaz.resources
+C:\Users\ASUS\Desktop\Mitoz Bölünme\Mitoz Bölünme\obj\Debug\Mitoz_Bölünme.evre.Metafaz.resources
+C:\Users\ASUS\Desktop\Mitoz Bölünme\Mitoz Bölünme\obj\Debug\Mitoz_Bölünme.evre.Anafaz.resources
+C:\Users\ASUS\Desktop\Mitoz Bölünme\Mitoz Bölünme\obj\Debug\Mitoz_Bölünme.evre.Telofaz.resources
+C:\Users\ASUS\Desktop\Mitoz Bölünme\Mitoz Bölünme\obj\Debug\Mitoz_Bölünme.evre.btkstknz.resources
+C:\Users\ASUS\Desktop\Mitoz Bölünme\Mitoz Bölünme\obj\Debug\Mitoz_Bölünme.evre.Hyvnstknz.resources
+C:\Users\ASUS\Desktop\Mitoz Bölünme\Mitoz Bölünme\obj\Debug\Mitoz_Bölünme.evre.Tablo.resources
+C:\Users\ASUS\Desktop\Mitoz Bölünme\Mitoz Bölünme\obj\Debug\Mitoz_Bölünme.evre.aendomitoz.resources
+C:\Users\ASUS\Desktop\Mitoz Bölünme\Mitoz Bölünme\obj\Debug\Mitoz_Bölünme.evre.kontrol.resources

@@ -1,0 +1,27 @@
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\bin\Debug\_2.Bitkisel_Dokular.exe.config
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\bin\Debug\_2.Bitkisel_Dokular.exe
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\bin\Debug\_2.Bitkisel_Dokular.pdb
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\obj\Debug\2. Bitkisel Dokular.csprojAssemblyReference.cache
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\obj\Debug\_2.Bitkisel_Dokular.Form1.resources
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\obj\Debug\_2.Bitkisel_Dokular.Properties.Resources.resources
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\obj\Debug\_2.Bitkisel_Dokular.Sayfalar.Dokular.resources
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\obj\Debug\_2.Bitkisel_Dokular.Sayfalar.Meristem.resources
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\obj\Debug\2. Bitkisel Dokular.csproj.GenerateResource.cache
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\obj\Debug\2. Bitkisel Dokular.csproj.CoreCompileInputs.cache
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\obj\Debug\_2.Bitkisel_Dokular.exe
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\obj\Debug\_2.Bitkisel_Dokular.pdb
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\obj\Debug\_2.Bitkisel_Dokular.Sayfalar.Parankima.resources
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\obj\Debug\_2.Bitkisel_Dokular.Sayfalar.Temel.resources
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\obj\Debug\_2.Bitkisel_Dokular.Sayfalar.Kollenkima.resources
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\obj\Debug\_2.Bitkisel_Dokular.Sayfalar.Sklerankima.resources
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\obj\Debug\_2.Bitkisel_Dokular.Sayfalar.Epidermis.resources
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\obj\Debug\_2.Bitkisel_Dokular.Sayfalar.Koruyucu.resources
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\obj\Debug\_2.Bitkisel_Dokular.Sayfalar.Stoma.resources
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\obj\Debug\_2.Bitkisel_Dokular.Sayfalar.Hidatot.resources
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\obj\Debug\_2.Bitkisel_Dokular.Sayfalar.Feather.resources
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\obj\Debug\_2.Bitkisel_Dokular.Sayfalar.Emergens.resources
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\obj\Debug\_2.Bitkisel_Dokular.Sayfalar.Pridermis.resources
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\obj\Debug\_2.Bitkisel_Dokular.Sayfalar.Iletim.resources
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\obj\Debug\_2.Bitkisel_Dokular.Sayfalar.Ksilem.resources
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\obj\Debug\_2.Bitkisel_Dokular.Sayfalar.Floem.resources
+D:\Masaüstü\2. Bitkisel Dokular\2. Bitkisel Dokular\obj\Debug\_2.Bitkisel_Dokular.Sayfalar.Sorular.resources

@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6BC25103-0906-4BAA-8FA1-E8D7AC23149C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Mitoz_Bölünme</RootNamespace>
+    <AssemblyName>Mitoz Bölünme</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="evre\aendomitoz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="evre\aendomitoz.Designer.cs">
+      <DependentUpon>aendomitoz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="evre\Anafaz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="evre\Anafaz.Designer.cs">
+      <DependentUpon>Anafaz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="evre\btkstknz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="evre\btkstknz.Designer.cs">
+      <DependentUpon>btkstknz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="evre\Dng.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="evre\Dng.Designer.cs">
+      <DependentUpon>Dng.cs</DependentUpon>
+    </Compile>
+    <Compile Include="evre\Hyvnstknz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="evre\Hyvnstknz.Designer.cs">
+      <DependentUpon>Hyvnstknz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="evre\Hücre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="evre\Hücre.Designer.cs">
+      <DependentUpon>Hücre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="evre\kontrol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="evre\kontrol.Designer.cs">
+      <DependentUpon>kontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="evre\Kvrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="evre\Kvrm.Designer.cs">
+      <DependentUpon>Kvrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="evre\Metafaz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="evre\Metafaz.Designer.cs">
+      <DependentUpon>Metafaz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="evre\Profaz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="evre\Profaz.Designer.cs">
+      <DependentUpon>Profaz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="evre\Tablo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="evre\Tablo.Designer.cs">
+      <DependentUpon>Tablo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="evre\Telofaz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="evre\Telofaz.Designer.cs">
+      <DependentUpon>Telofaz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="evre\Interfaz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="evre\Interfaz.Designer.cs">
+      <DependentUpon>Interfaz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sorular\srkısım1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sorular\srkısım1.Designer.cs">
+      <DependentUpon>srkısım1.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="evre\aendomitoz.resx">
+      <DependentUpon>aendomitoz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="evre\Anafaz.resx">
+      <DependentUpon>Anafaz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="evre\btkstknz.resx">
+      <DependentUpon>btkstknz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="evre\Dng.resx">
+      <DependentUpon>Dng.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="evre\Hyvnstknz.resx">
+      <DependentUpon>Hyvnstknz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="evre\Hücre.resx">
+      <DependentUpon>Hücre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="evre\kontrol.resx">
+      <DependentUpon>kontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="evre\Kvrm.resx">
+      <DependentUpon>Kvrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="evre\Metafaz.resx">
+      <DependentUpon>Metafaz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="evre\Profaz.resx">
+      <DependentUpon>Profaz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="evre\Tablo.resx">
+      <DependentUpon>Tablo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="evre\Telofaz.resx">
+      <DependentUpon>Telofaz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="evre\Interfaz.resx">
+      <DependentUpon>Interfaz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="sorular\srkısım1.resx">
+      <DependentUpon>srkısım1.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
